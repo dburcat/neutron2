@@ -23,7 +23,7 @@ Q20. A
 CODE TRACE:
 Q1. 22
 Q2. 21
-Q3. 
+Q3. 5
 Q4. 
 Q5. 
 Q6. 
