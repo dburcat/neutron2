@@ -3,8 +3,8 @@ Q1. A
 Q2. B
 Q3. B
 Q4. C
-Q5. D
-Q6. 
+Q5. A
+Q6. D
 Q7. 
 Q8. 
 Q9. 
