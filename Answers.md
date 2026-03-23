@@ -17,7 +17,7 @@ Q15. D
 Q16. C
 Q17. D
 Q18. D
-Q19. 
+Q19. C
 Q20. 
 
 CODE TRACE:
