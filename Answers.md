@@ -1,7 +1,7 @@
 PYTHON:
 Q1. A
 Q2. B
-Q3. 
+Q3. B
 Q4. 
 Q5. 
 Q6. 
