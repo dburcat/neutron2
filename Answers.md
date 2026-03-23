@@ -1,6 +1,6 @@
 PYTHON:
 Q1. A
-Q2. 
+Q2. B
 Q3. 
 Q4. 
 Q5. 
