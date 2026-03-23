@@ -21,8 +21,8 @@ Q19. C
 Q20. A
 
 CODE TRACE:
-Q1. 22 
-Q2. 
+Q1. 22
+Q2. 21
 Q3. 
 Q4. 
 Q5. 
