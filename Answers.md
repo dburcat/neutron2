@@ -1,5 +1,5 @@
 PYTHON:
-Q1. 
+Q1. A
 Q2. 
 Q3. 
 Q4. 
@@ -21,7 +21,7 @@ Q19.
 Q20. 
 
 CODE TRACE:
-Q1. 
+Q1. 22
 Q2. 
 Q3. 
 Q4. 
